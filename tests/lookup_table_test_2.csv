@@ -1,0 +1,7 @@
+dstport,protocol,tag
+80,tcp,http
+22,tcp,ssh
+443,tcp,https
+25,tcp,email
+53,udp,dns
+8080,tcp,web_proxy

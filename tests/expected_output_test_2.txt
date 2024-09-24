@@ -1,0 +1,18 @@
+Tag Counts:
+Tag,Count
+http,1
+ssh,1
+https,1
+email,1
+dns,1
+web_proxy,1
+Untagged,0
+
+Port/Protocol Combination Counts:
+Port,Protocol,Count
+80,tcp,1
+22,tcp,1
+443,tcp,1
+25,tcp,1
+53,udp,1
+8080,tcp,1
